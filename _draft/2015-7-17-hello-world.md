@@ -2,7 +2,7 @@
 layout: post
 title: Jekyll对你说Hello World
 description: "使用Jekyll搭建了一个新的博客，尝试用这个博客来书写一些思维碎片"
-tags: [Jekyll]、[博客]
+tags: [Jekyll]
 image:
   feature: jeklly.jpg
 ---
