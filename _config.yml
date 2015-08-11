@@ -1,22 +1,22 @@
-title:            一人Code|写给自己的Blog
+title:            易仁永澄的思维碎片
 description:      
-disqus_shortname: xinqiu
+disqus_shortname: hiddenwangcc
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-url:             http://xinqiu.me
+url:             http://growup.top
 
 # Owner/author information
 owner:
-  name:           Xin Qiu
+  name:           易仁永澄
   avatar:         avatar.jpg
-  bio:            "Maybe tomorrow,everything will be different."
-  email:          xinqiu.94@email.com
+  bio:            "思考，让你拥有护城河"
+  email:          ceo@runwith.cc
   # Social networking links used in footer. Update and remove as you like.
   twitter:        QX_Xin        
   facebook:       
-  github: xinqiu        
+  github: hiddenwangcc      
   stackexchange:      
   linkedin:       
   instagram:      
@@ -30,7 +30,7 @@ owner:
 background: 
 
 # Analytics and webmaster tools stuff goes here
-google_analytics: UA-57881840-1   
+google_analytics: 
 google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
