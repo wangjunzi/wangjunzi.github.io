@@ -1,15 +1,15 @@
 # Menu navigation links
-- title: Projects
-  url: /projects/
+#- title: Projects
+#  url: /projects/
 
-- title: Reading List
-  url: /reading-list/
+# - title: Reading List
+#  url: /reading-list/
 
-- title: Timeline
-  url: /timeline/
+# - title: Timeline
+#  url: /timeline/
 
-- title: Links
+- title: 友情链接
   url: /links/
 
 - title: Github
-  url: http://github.com/xinqiu
+  url: http://github.com/hiddenwangcc
