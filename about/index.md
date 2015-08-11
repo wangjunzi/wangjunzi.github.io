@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 关于我
+title: 关于我 | AboutMe
 image:
   feature: abstract-5.jpg
 comments: false
