@@ -24,7 +24,7 @@ comments: false
 
 ## 联系方式
 
-* [Email Me](mailto:ceo@runwith.cc)
+* 给我来信：[Email Me](mailto:ceo@runwith.cc)
 * 联系电话：18769117536
 * 个人微信：hiddenwangcc
 * 微信公众号：扫描下方二维码关注

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Links
-description: "Links"
+title: 友链 | Links
+description: "友情链接"
 image:
   feature: abstract-10.jpg
 share: false
@@ -10,8 +10,8 @@ comments: false
 
 ## 友情链接
 
-* [Jamlee's Blog](http://jamlee.cn/)
+* [知行，在路上](http://blog.hiddenwangcc.com/)
 
-* [猪哥好又暖](http://dj.zhufree.info)
+* [幸福进化俱乐部](http://upwith.me)
 
-* [清水寺的猫](http://lc4t.me)
+* [易仁永澄](http://www.hiddenwangcc.com)
