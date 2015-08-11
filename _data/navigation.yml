@@ -8,8 +8,12 @@
 # - title: Timeline
 #  url: /timeline/
 
-- title: 友情链接
+- title: 友链 | Link
   url: /links/
+
+
+- title: 咨询 | Consult
+  url: /consult/
 
 - title: Github
   url: http://github.com/hiddenwangcc
