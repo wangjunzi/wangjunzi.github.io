@@ -32,7 +32,7 @@ comments: false
 * 个人微信：hiddenwangcc
 * 微信公众号：扫描下方二维码关注
 
-![扫描关注我的微信公众号](http://77fm42.com1.z0.glb.clouddn.com/1505ewm.jpg)
+![扫描关注我的微信公众号](http://77fm42.com1.z0.glb.clouddn.com/yyavatar.jpg)
 
 
 <div markdown="0"><center><a href="http://blog.hiddenwangcc.com" class="btn btn-info">Seek BLog</a></center></div>
