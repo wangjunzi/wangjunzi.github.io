@@ -4,7 +4,7 @@ title: 成长大行家
 description: "努力成长为我们身边的大行家"
 tags: [行家,核心,群规]
 image:
-  feature: jeklly.jpg
+  feature: abstract-8.jpg
 ---
 
 ## 成长大行家是什么
