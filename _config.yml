@@ -1,22 +1,23 @@
-title:            易仁永澄的思维碎片
+title:            Double的优活成长
 description:      
-disqus_shortname: growuptop
+disqus_shortname: 
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-url:             http://growup.top
+url:             http://yohoup.com
 
 # Owner/author information
 owner:
-  name:           易仁永澄
+  name:           汪隽子
   avatar:         avatar.jpg
-  bio:            "让思考产生力量！"
-  email:          ceo@runwith.cc
+  bio:            "平平安安，快快乐乐"
+  email:          i@wangjunzi.com
+
   # Social networking links used in footer. Update and remove as you like.
   twitter:             
   facebook:       
-  github: hiddenwangcc      
+  github: wangjunzi     
   stackexchange:      
   linkedin:       
   instagram:      
