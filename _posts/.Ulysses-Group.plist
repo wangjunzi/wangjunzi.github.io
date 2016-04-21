@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>resolutionData</key>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>2015-8-30-we-start-from-today.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>482946557.86781901</real>
+				<key>version</key>
+				<dict>
+					<key>621a8a1340208824c338ef1d4a735ab9b8473b3f08a934266b0a1e00d44e22a1</key>
+					<integer>2</integer>
+				</dict>
+			</dict>
+			<key>2016–04-20-fouth-letter.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>482946774.10019702</real>
+				<key>version</key>
+				<dict>
+					<key>621a8a1340208824c338ef1d4a735ab9b8473b3f08a934266b0a1e00d44e22a1</key>
+					<integer>5</integer>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>2015-8-30-we-start-from-today.md</string>
+		</array>
+		<array>
+			<string>2016–04-20-fouth-letter.md</string>
+		</array>
+	</array>
+	<key>storeFormatVersion</key>
+	<integer>1</integer>
+	<key>versioning</key>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>621a8a1340208824c338ef1d4a735ab9b8473b3f08a934266b0a1e00d44e22a1</key>
+			<integer>6</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>
